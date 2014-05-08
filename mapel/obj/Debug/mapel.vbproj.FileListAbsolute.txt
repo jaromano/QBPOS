@@ -1,0 +1,30 @@
+C:\Users\pfletcher.PPI2PASS\Documents\Visual Studio 2013\Projects\mapel\mapel\bin\Debug\mapel.exe.config
+C:\Users\pfletcher.PPI2PASS\Documents\Visual Studio 2013\Projects\mapel\mapel\obj\Debug\Interop.QBFC12Lib.dll
+C:\Users\pfletcher.PPI2PASS\Documents\Visual Studio 2013\Projects\mapel\mapel\obj\Debug\Interop.QBFC3Lib.dll
+C:\Users\pfletcher.PPI2PASS\Documents\Visual Studio 2013\Projects\mapel\mapel\obj\Debug\Interop.QBInstanceFinder.dll
+C:\Users\pfletcher.PPI2PASS\Documents\Visual Studio 2013\Projects\mapel\mapel\obj\Debug\Interop.QBPOSFC3Lib.dll
+C:\Users\pfletcher.PPI2PASS\Documents\Visual Studio 2013\Projects\mapel\mapel\obj\Debug\Interop.QBPOSXMLRPLib.dll
+C:\Users\pfletcher.PPI2PASS\Documents\Visual Studio 2013\Projects\mapel\mapel\obj\Debug\Interop.QBXMLRP2Lib.dll
+C:\Users\pfletcher.PPI2PASS\Documents\Visual Studio 2013\Projects\mapel\mapel\obj\Debug\mapel.vbproj.ResolveComReference.cache
+C:\Users\pfletcher.PPI2PASS\Documents\Visual Studio 2013\Projects\mapel\mapel\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\pfletcher.PPI2PASS\Documents\Visual Studio 2013\Projects\mapel\mapel\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\pfletcher.PPI2PASS\Documents\Visual Studio 2013\Projects\mapel\mapel\obj\Debug\mapel.vbproj.GenerateResource.Cache
+C:\Users\pfletcher.PPI2PASS\Documents\Visual Studio 2013\Projects\mapel\mapel\obj\Debug\Interop.MSXML2.dll
+C:\Users\pfletcher.PPI2PASS\Documents\Visual Studio 2013\Projects\mapel\mapel\bin\Debug\mapel.exe
+C:\Users\pfletcher.PPI2PASS\Documents\Visual Studio 2013\Projects\mapel\mapel\bin\Debug\mapel.pdb
+C:\Users\pfletcher.PPI2PASS\Documents\Visual Studio 2013\Projects\mapel\mapel\bin\Debug\mapel.xml
+C:\Users\pfletcher.PPI2PASS\Documents\Visual Studio 2013\Projects\mapel\mapel\obj\Debug\mapel.exe
+C:\Users\pfletcher.PPI2PASS\Documents\Visual Studio 2013\Projects\mapel\mapel\obj\Debug\mapel.xml
+C:\Users\pfletcher.PPI2PASS\Documents\Visual Studio 2013\Projects\mapel\mapel\obj\Debug\mapel.pdb
+E:\QB_POS\mapel\mapel\bin\Debug\mapel.exe.config
+E:\QB_POS\mapel\mapel\obj\Debug\Interop.MSXML2.dll
+E:\QB_POS\mapel\mapel\obj\Debug\Interop.QBFC12Lib.dll
+E:\QB_POS\mapel\mapel\obj\Debug\Interop.QBFC3Lib.dll
+E:\QB_POS\mapel\mapel\obj\Debug\Interop.QBInstanceFinder.dll
+E:\QB_POS\mapel\mapel\obj\Debug\Interop.QBPOSFC3Lib.dll
+E:\QB_POS\mapel\mapel\obj\Debug\Interop.QBPOSXMLRPLib.dll
+E:\QB_POS\mapel\mapel\obj\Debug\Interop.QBXMLRP2Lib.dll
+E:\QB_POS\mapel\mapel\obj\Debug\mapel.vbproj.ResolveComReference.cache
+E:\QB_POS\mapel\mapel\obj\Debug\mapel.exe
+E:\QB_POS\mapel\mapel\obj\Debug\mapel.xml
+E:\QB_POS\mapel\mapel\obj\Debug\mapel.pdb
