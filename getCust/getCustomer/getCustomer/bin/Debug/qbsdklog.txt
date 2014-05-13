@@ -1,0 +1,12 @@
+
+20140509.143754	I	4980	RequestProcessor	========= Started Connection =========
+20140509.143754	I	4980	RequestProcessor	Connection opened by app named 'Sample Code from OSR'
+20140509.143754	I	4980	CertVerifier	The Authenticode signature validated OK.
+20140509.143754	E	4980	RequestProcessor	QuickBooks is not running and the data file name is not provided. Cannot continue.
+20140509.143757	I	4980	RequestProcessor	Connection closed by app named 'Sample Code from OSR'
+20140509.143757	I	4980	RequestProcessor	========== Ended Connection ==========
+
+20140509.143821	I	4700	RequestProcessor	========= Started Connection =========
+20140509.143821	I	4700	RequestProcessor	Connection opened by app named 'Sample Code from OSR'
+20140509.143821	I	4700	CertVerifier	The Authenticode signature validated OK.
+20140509.143827	E	4700	RequestProcessor	QuickBooks is not running and the data file name is not provided. Cannot continue.
