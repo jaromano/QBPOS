@@ -28,3 +28,14 @@ E:\QB_POS\mapel\mapel\obj\Debug\mapel.vbproj.ResolveComReference.cache
 E:\QB_POS\mapel\mapel\obj\Debug\mapel.exe
 E:\QB_POS\mapel\mapel\obj\Debug\mapel.xml
 E:\QB_POS\mapel\mapel\obj\Debug\mapel.pdb
+E:\QB_POS\mapel\mapel\bin\Debug\mapel.exe.manifest
+E:\QB_POS\mapel\mapel\bin\Debug\mapel.application
+E:\QB_POS\mapel\mapel\bin\Debug\mapel.exe
+E:\QB_POS\mapel\mapel\bin\Debug\mapel.pdb
+E:\QB_POS\mapel\mapel\bin\Debug\mapel.xml
+E:\QB_POS\mapel\mapel\obj\Debug\WindowsApplication1.Form1.resources
+E:\QB_POS\mapel\mapel\obj\Debug\WindowsApplication1.Resources.resources
+E:\QB_POS\mapel\mapel\obj\Debug\mapel.vbproj.GenerateResource.Cache
+E:\QB_POS\mapel\mapel\obj\Debug\mapel.exe.manifest
+E:\QB_POS\mapel\mapel\obj\Debug\mapel.application
+E:\QB_POS\mapel\mapel\obj\Debug\Interop.Scripting.dll
